@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<a href="https://ibb.co/ckLZnCX"><img style="width:15%;" src="https://i.ibb.co/GnT8St3/orderedlistocat.png" alt="orderedlistocat" border="0"></a>
+<a href="https://ibb.co/ckLZnCX"><img style="width:15%;" src="https://s13.gifyu.com/images/S0uMY.gif" alt="orderedlistocat" border="0"></a>
 </div>
 <h1 align="center">Hi 👋, I'm Ashika Ridimahaliyadda</h1>
 <h3 align="center">Passionate Software Developer</h3>
