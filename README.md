@@ -23,7 +23,7 @@
 
 
 
-<a href="https://gifyu.com/image/S0uMY"><img src="https://iconscout.com/lottie-animation/female-developer-5942136" alt="web development gif" border="0" /></a>
+<a href="https://gifyu.com/image/S0uMY"><img src="https://s13.gifyu.com/images/S0uMY.gif" alt="web development gif" border="0" /></a>
 
   </td>
 </tr>
