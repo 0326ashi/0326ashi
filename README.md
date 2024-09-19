@@ -10,9 +10,7 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Mern Stack**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me *ashikaridi2002@gmail.com*
 
