@@ -14,8 +14,6 @@
 
 - 📫 How to reach me *ashikaridi2002@gmail.com*
 
-- ⚡ Fun fact **I think I'm funny**
-
 </td>
 <td width="50%" align="center">
 
