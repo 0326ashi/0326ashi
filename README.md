@@ -19,7 +19,8 @@
 
 
 
-<a href="[https://gifyu.com/image/S0uMY](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)"><img src="https://s13.gifyu.com/images/S0uMY.gif" alt="web development gif" border="0" /></a>
+<a href="[https://gifyu.com/image/S0uMY](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)"><img src="[https://s13.gifyu.com/images/S0uMY](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904
+).gif" alt="web development gif" border="0" /></a>
 
   </td>
 </tr>
