@@ -1,14 +1,5 @@
 <div id="header" align="center">
 
-<a href="https://ibb.co/ckLZnCX">
-  <img
-    style="width:8%"
-    src="https://png.pngtree.com/element_our/png/20181013/code-icon-design-vector-png_125856.jpg"
-    alt="orderedlistocat"
-    border="0"
-  />
-</a>
-
 </div>
 <h1 align="center">Hi 👋, I'm Ashika Ridimahaliyadda</h1>
 <h3 align="center">Passionate Software Developer</h3>
