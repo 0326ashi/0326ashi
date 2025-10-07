@@ -9,7 +9,7 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me *ashikaridi2002@gmail.com*
 
@@ -17,8 +17,6 @@
 
 </td>
 <td width="50%" align="center">
-
-
 
 <a href="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904">
   <img 
@@ -32,12 +30,12 @@
 </tr>
 </table>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0326ashi" alt="0326ashi" /></a> </p>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ashika-ridimahaliyadda-27aa432a2" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg?raw=true" alt="ashika" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/23256379/ashika-ridimahaliyadda" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/StackOverflow-Dark.svg" alt="23256379" height="50" width="50" /></a>&nbsp;
-<a href="https://instagram.com/ashi_ridi" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="ashika_" height="50" width="50" /></a>
 </p>
 </br>
 
